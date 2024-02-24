@@ -1,0 +1,2 @@
+# Домашнее задание к занятию «Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility»
+## [Задача Бесконечная итерация](https://github.com/netology-code/jd-homeworks/blob/master/behave/task1/README.md)
